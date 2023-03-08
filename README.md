@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Active Directory Practice</b>
-  - [Active Directory Home Lab]
+  - [Active Directory Home Lab](https://github.com/stevenjbit/ActiveDirectoryLab)
 
 <h2>📺 Popular YouTube Videos</h2>
 
