@@ -15,6 +15,7 @@
 <h2>👨Certifications:</h2>
 
 - [CompTIA A+]
+- [Google Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/2QJCV672WFGZ)
 
 <h2> 🤳 Connect with me:</h2>
 
