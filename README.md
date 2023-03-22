@@ -5,6 +5,9 @@
 - <b>Active Directory Practice</b>
   - [Active Directory Home Lab](https://github.com/stevenjbit/ActiveDirectoryLab)
 
+- <b>Technician Practice</b>
+  - [Replacing a battery in an iPhone 8 Plus]
+
 <h2>📺 YouTube Videos</h2>
 
 - [Tutorial Active Directory Home Lab]
