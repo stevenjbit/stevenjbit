@@ -6,15 +6,14 @@
   - [Active Directory Home Lab](https://github.com/stevenjbit/ActiveDirectoryLab)
 
 - <b>Technician Practice</b>
-  - [Replacing a battery in an iPhone 8 Plus](https://github.com/stevenjbit/BatteryReplacementiPhone8Plus)
+  - [Replacing a battery in an iPhone 8 Plus](https://github.com/stevenjbit/BatteryReplacementiPhone)
 
 <h2>📺 YouTube Videos</h2>
 
-- [Tutorial Active Directory Home Lab]
+- 
 
 <h2>👨Certifications:</h2>
 
-- [CompTIA A+]
 - [Google Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/2QJCV672WFGZ)
 
 <h2> 🤳 Connect with me:</h2>
