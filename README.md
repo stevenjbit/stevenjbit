@@ -5,6 +5,9 @@
 - <b>Active Directory Practice</b>
   - [Active Directory Home Lab](https://github.com/stevenjbit/ActiveDirectoryLab)
 
+- <b>Simple Port Scanner on Python</b>
+   - [Simple Python Port Scanner](https://github.com/stevenjbit/SimplePythonPortScanner)
+
 - <b>Technician Practice</b>
   - [Replacing a battery in an iPhone 8 Plus](https://github.com/stevenjbit/BatteryReplacementiPhone)
 
