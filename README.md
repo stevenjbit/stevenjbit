@@ -23,11 +23,11 @@
 
 [<img align="left" alt="Steven-Bealle | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="StevenBealle | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="StevenB | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
 
 [linkedin]: https://linkedin.com/in/steven-bealle
 [twitter]: https://twitter.com/stevenbealle
-[youtube]: https://www.youtube.com/@stevenjbit
+
 
 
 <!--
