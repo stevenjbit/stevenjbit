@@ -26,6 +26,7 @@
 
 
 [linkedin]: https://linkedin.com/in/steven-bealle
+[youtube]: https://www.youtube.com/@stevenbdoesit
 [twitter]: https://twitter.com/stevenbealle
 
 
