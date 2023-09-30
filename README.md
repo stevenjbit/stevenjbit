@@ -17,7 +17,7 @@
 
 <h2>👨Certifications:</h2>
 
-- [Google Technical Support Fundamentals](https://www.coursera.org/account/accomplishments/certificate/2QJCV672WFGZ)
+- [Google IT Support Professional Certificate](https://www.credly.com/go/WWjZ2Uo5)
 
 <h2> 🤳 Connect with me:</h2>
 
