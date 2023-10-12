@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Ticketing System Set up with OsTicket</b>
-  - [OsTicket Home Lab](https://github.com/stevenjbit/OsTicketAzureLab/)
+  - [OsTicket Lab on Azure](https://github.com/stevenjbit/OsTicketAzureLab/)
 
 - <b>Active Directory Practice</b>
   - [Active Directory Home Lab](https://github.com/stevenjbit/ActiveDirectoryLab)
