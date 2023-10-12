@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 IT Projects:</h2>
 
+- <b>Ticketing System Set up with OsTicket</b>
+  - [OsTicket Home Lab](https://github.com/stevenjbit/ActiveDirectoryLab)
+
 - <b>Active Directory Practice</b>
   - [Active Directory Home Lab](https://github.com/stevenjbit/ActiveDirectoryLab)
 
