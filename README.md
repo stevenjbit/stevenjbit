@@ -5,10 +5,10 @@
 - <b>Ticketing System Set up with OsTicket</b>
   - [OsTicket Lab on Azure](https://github.com/stevenjbit/OsTicketAzureLab/)
 
-- <b>Active Directory Practice</b>
+- <b>Active Directory</b>
   - [Active Directory Home Lab](https://github.com/stevenjbit/ActiveDirectoryLab)
 
-- <b>Simple Port Scanner on Python</b>
+- <b>Python</b>
    - [Simple Python Port Scanner](https://github.com/stevenjbit/SimplePythonPortScanner)
 
 - <b>Technician Practice</b>
