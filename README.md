@@ -30,7 +30,7 @@
 
 
 [linkedin]: https://linkedin.com/in/steven-bealle
-[youtube]: https://www.youtube.com/@stevenbdoesit
+[youtube]: https://www.youtube.com/@sjbdoesit
 [twitter]: https://twitter.com/stevenbealle
 
 
