@@ -20,6 +20,7 @@
 
 <h2>👨Certifications:</h2>
 
+- [CompTIA A+ Certification](https://www.credly.com/badges/3cf65d5b-b159-4633-a889-b1ea5a533051/public_url)
 - [Google IT Support Professional Certificate](https://www.credly.com/go/WWjZ2Uo5)
 
 <h2> 🤳 Connect with me:</h2>
