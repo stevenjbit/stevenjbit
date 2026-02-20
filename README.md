@@ -1,6 +1,6 @@
 <h1><a href="https://www.linkedin.com/in/steven-bealle/">Steven Bealle</a>'s IT and Cybersecurity Project Portfolio😊</h1>
 
-Hi, I'm Steven! I'm passionate about cybersecurity and I love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects below allow me to dive deep into the ever-evolving world of cybersecurity. Please feel free to check them out and see some of the work I've put into enhancing security operations and processes!
+Hi, I'm Steven! I'm passionate about Cybersecurity and I love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects below allow me to dive deep into the ever-evolving world of cybersecurity. Please feel free to check them out and see some of the work I've put into enhancing security operations and processes!
 
 <h2>👨‍💻 Cybersecurity Projects </h2>
 
