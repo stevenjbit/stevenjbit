@@ -18,16 +18,16 @@ Hi, I'm Steven! I'm passionate about cybersecurity and I love tackling complex c
 
 <h2>👨‍💻 IT Projects:</h2>
 
-- <b>Ticketing System Set up with OsTicket</b>
+- <b>🎫Ticketing System Set up with OsTicket</b>
   - [OsTicket Lab on Azure](https://github.com/stevenjbit/OsTicketAzureLab/)
 
-- <b>Active Directory</b>
+- <b>🗂️Active Directory</b>
   - [Active Directory Home Lab](https://github.com/stevenjbit/ActiveDirectoryLab)
 
-- <b>Python</b>
+- <b>🐍Python</b>
    - [Simple Python Port Scanner](https://github.com/stevenjbit/SimplePythonPortScanner)
 
-- <b>Technician Practice</b>
+- <b>🪛Technician Practice</b>
   - [Replacing a battery in an iPhone 8 Plus](https://github.com/stevenjbit/BatteryReplacementiPhone)
 
 <h2>📺 YouTube Videos</h2>
