@@ -37,7 +37,7 @@ Hi, I'm Steven! I'm passionate about cybersecurity and I love tackling complex c
 <h2>👨Certifications:</h2>
 
 - [Cisco Certified Network Associate (CCNA)](https://www.credly.com/badges/c3e35767-9f31-4a93-8b65-6d8cc3a7f54d/public_url)
-- [CompTIA Security+](https://www.credly.com/badges/d20ac4ff-b900-49e9-abce-e5bd3a9feddd/public_url)
+- [CompTIA Security+ Certification](https://www.credly.com/badges/d20ac4ff-b900-49e9-abce-e5bd3a9feddd/public_url)
 - [CompTIA A+ Certification](https://www.credly.com/badges/3cf65d5b-b159-4633-a889-b1ea5a533051/public_url)
 - [Microsoft Certified: Azure Fundamentals (AZ-900)](https://learn.microsoft.com/en-us/users/beallesteven-1861/credentials/1253a1e7fb5a16c4)
 - [Google IT Support Professional Certificate](https://www.credly.com/go/WWjZ2Uo5)
