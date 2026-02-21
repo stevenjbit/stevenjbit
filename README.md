@@ -5,7 +5,7 @@ Hi, I'm Steven! I'm passionate about Cybersecurity and I love tackling complex c
 <h2>👨‍💻 Cybersecurity Projects </h2>
 
 - <b>⚠️Vulnerability Management Projects</b>
-  - [Vulnerability Management Program Implementation and Programmic Vulnerability Remediation]()
+  - [Vulnerability Management Program Implementation and Programmic Vulnerability Remediation](https://github.com/stevenjbit/Vulnerability-Management-Implementation)
   - [Windows 11 DISA STIG Automation & Remediation]()
  
 - <b>🚨Security Operation and Incident Response Projects</b>
