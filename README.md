@@ -13,8 +13,8 @@ Hi, I'm Steven! I'm passionate about Cybersecurity and I love tackling complex c
   - [Unauthorized Tor Browser Usage: Incident Creation]()
 
 - <b>🎯Threat Hunt Projects with Microsoft Sentinel and Defender for Endpoint</b>
-  - [Crosscheck: Unauthorized manoevres](https://github.com/stevenjbit/Threat-Hunt-Crosscheck)
   - [The Broker](https://github.com/stevenjbit/Threat-Hunt-The-Broker)
+  - [Crosscheck: Unauthorized manoevres](https://github.com/stevenjbit/Threat-Hunt-Crosscheck)
 
 <h2>👨‍💻 IT Projects:</h2>
 
