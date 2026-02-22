@@ -9,7 +9,7 @@ Hi, I'm Steven! I'm passionate about Cybersecurity and I love tackling complex c
   - [Windows 11 DISA STIG Automation & Remediation](https://github.com/stevenjbit/DISA-STIG-Windows-Remediation)
  
 - <b>🚨Security Operation and Incident Response Projects</b>
-  - [Unauthorized TOR Browser Usage: Incident Investigation]()
+  - [Unauthorized TOR Browser Usage: Incident Investigation](https://github.com/stevenjbit/Tor-Browser-Incident-Response)
   - [Unauthorized Tor Browser Usage: Incident Creation](https://github.com/stevenjbit/Tor-Browser-Incident-Creation)
 
 - <b>🎯Threat Hunt Projects with Microsoft Sentinel and Defender for Endpoint</b>
